@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
-    "serve": "live-server dist --verbose" 
+    "serve": "live-server dist --verbose"
   },
   "repository": {
     "type": "git",
