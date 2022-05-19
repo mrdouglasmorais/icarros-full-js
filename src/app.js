@@ -4,10 +4,12 @@ import Utils from './service/Utils';
 // importando páginas de
 import Home from './views/home';
 import ErrorPage from './views/error';
+import Contato from './views/contato';
 
 // routes
 let routes = {
   '/': Home,
+  '/contato': Contato
 }
 
 const router = async () => {
