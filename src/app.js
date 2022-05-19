@@ -5,10 +5,12 @@ import Utils from './service/Utils';
 import Home from './views/home';
 import About from './views/about'
 import ErrorPage from './views/error';
+import Contato from './views/contato';
 
 // routes
 let routes = {
   '/': Home,
+  '/contato': Contato,
   '/about': About,
 }
 
