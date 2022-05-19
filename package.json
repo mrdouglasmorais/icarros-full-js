@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/mrdouglasmorais/icarros-full-js#readme",
   "dependencies": {
-    "@babel/runtime": "^7.17.9"
+    "@babel/runtime": "^7.17.9",
+    "axios": "^0.27.2"
   },
   "devDependencies": {
     "@babel/core": "^7.17.12",
